@@ -1,0 +1,35 @@
+Q1 : What is Git?
+
+Ans 1: Git is Version Control System.It can mantain  our code. 
+Git is used for tracking code changes , tracking who made changes like history of files and coding collaborations.  
+Q2 : What do you understand by the term 'Version Control System'?
+
+Ans 2: The term 'Version control system' are software tools that help software teams manage changes to source code over time. 
+As development environments have accelerated, version control systems help software teams work faster and smarter.
+There are two types of version control System .They are Centralized Version control system and Distributed Version control system. 
+Q3 : What is GitHub?
+
+Ans 3: GitHub is a web-based interface that uses Git, the open source version control software that lets multiple people make separate changes to web pages at the same time. 
+GitHub is a developer platform that allows developers to create, store, manage and share their code. 
+It uses Git software, providing the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project.  
+Q4 : Mention some popular Git hosting Services.
+
+Ans 4: The popular git hosting services are: GitHub leads in community and popularity, GitLab excels at collaboration, and Bitbucket has the best free option. 
+Q5 : Different types of version Control Systems.
+
+Ans 5: The different types of version control systems are:  1.Centralized Version control system and 2.Distributed Version control system. 
+Distributed Version control system is used in Github as it does not depend on single system and does not depend on network. 
+Q6 : What benefits come with using Git?
+
+Ans 6: The benefit which come with using git are : One of the biggest advantages of Git is its branching capabilities. 
+Unlike centralized version control systems, Git branches are cheap and easy to merge. This facilitates the feature branch workflow popular with many Git users.
+ Feature branches provide an isolated environment for every change to your codebase. 
+Q7 : What is a git repository?
+
+Ans 7: A Git repository is a virtual storage of your project. It allows you to save versions of your code, which you can access when needed. 
+GitHub is a web-based hosting service for git repositories.It enables collaborative development and allows multiple developers to work on a project simultaneously. 
+Q8 : How can you initialize a repository in git?
+
+Ans 8: To initialize a new repository, we will use the git init command. git init is a one-time command you use during the initial setup of a new repository. 
+Executing this command will create a new .git subdirectory in your current working directory. 
+This will also create a new main branch.
